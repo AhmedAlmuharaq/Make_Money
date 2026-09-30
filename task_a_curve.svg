@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500" viewBox="0 0 700 500">
+<rect width="700" height="500" fill="white"/>
+<text x="350" y="35" text-anchor="middle" font-family="sans-serif" font-size="20">Task a: greedy scan complexity</text>
+<path d="M 80 420 H 650 M 80 420 V 65" fill="none" stroke="black" stroke-width="2"/>
+<text x="365" y="475" text-anchor="middle" font-family="sans-serif">Number of denominations (n)</text>
+<text x="23" y="250" transform="rotate(-90 23 250)" text-anchor="middle" font-family="sans-serif">Number of greedy scans</text>
+<text x="80" y="440" text-anchor="middle" font-family="sans-serif" font-size="12">0</text>
+<text x="67" y="424" text-anchor="end" font-family="sans-serif" font-size="12">0</text>
+<text x="222" y="440" text-anchor="middle" font-family="sans-serif" font-size="12">200</text>
+<text x="67" y="337" text-anchor="end" font-family="sans-serif" font-size="12">200</text>
+<text x="365" y="440" text-anchor="middle" font-family="sans-serif" font-size="12">400</text>
+<text x="67" y="249" text-anchor="end" font-family="sans-serif" font-size="12">400</text>
+<text x="507" y="440" text-anchor="middle" font-family="sans-serif" font-size="12">600</text>
+<text x="67" y="162" text-anchor="end" font-family="sans-serif" font-size="12">600</text>
+<text x="650" y="440" text-anchor="middle" font-family="sans-serif" font-size="12">800</text>
+<text x="67" y="74" text-anchor="end" font-family="sans-serif" font-size="12">800</text>
+<polyline points="87,416 97,410 115,399 151,377 222,333 365,245 650,70 " fill="none" stroke="#1769aa" stroke-width="3"/>
+<text x="410" y="90" font-family="sans-serif" fill="#1769aa">Ordered and unordered: n scans</text>
+</svg>

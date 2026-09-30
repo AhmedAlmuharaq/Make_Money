@@ -1,0 +1,13 @@
+# Compiled binaries and intermediate objects
+*.exe
+*.o
+*.obj
+
+# Reproducible full enumeration output (large)
+task_b_solutions.csv
+task_b_iterative_solutions.csv
+
+# Common editor and temporary files
+.vscode/
+*.tmp
+*~
